@@ -1,0 +1,2 @@
+# NGINX
+Configurações para NGINX
